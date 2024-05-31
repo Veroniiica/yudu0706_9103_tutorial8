@@ -1,11 +1,7 @@
 # yudu0706_9103_tutorial8
-Final work readme File:
-Instructions
-Please use the mouse to click on any position of the circle during the demonstration, the music will start to play, and the circle will start to rotate at the same time (this operation is valid for any large circle). After clicking again, the music and the rotation will stop at the same time.
+Instructions: Please use the mouse to click on any position of the circle during the demonstration, the music will start to play, and the circle will start to rotate at the same time (this operation is valid for any large circle). After clicking again, the music and the rotation will stop at the same time.
 
-Details of my individual approach to animating the group code
-· I use audio and mouse manipulation for my personal code
-· In my personal code, the big circle with the circle is animated while the audio starts playing. 
+Details of my individual approach to animating the group code: 1.I use audio and mouse manipulation for my personal code.  2.In my personal code, the big circle with the circle is animated while the audio starts playing. 
 
 References to inspiration
 I was inspired by the Standard-playing Record (refer to the image below) I tried to draw an abstract record playing effect based on the group code.

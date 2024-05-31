@@ -3,8 +3,7 @@ Instructions: Please use the mouse to click on any position of the circle during
 
 Details of my individual approach to animating the group code: 1.I use audio and mouse manipulation for my personal code.  2.In my personal code, the big circle with the circle is animated while the audio starts playing. 
 
-References to inspiration
-I was inspired by the Standard-playing Record (refer to the image below) I tried to draw an abstract record playing effect based on the group code.
+References to inspiration: I was inspired by the Standard-playing Record (refer to the image below) I tried to draw an abstract record playing effect based on the group code.
 ![inspiration pic](ReadMeImage/6196j1I7y0L.jpg)
 
 
